@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 0,
+    "SubId": 2,
+    "Variation": 1,
+    "HeaderAttribute": "PalcementName",
+    "InitialData": "BULK - BODY, SLEEVES (SOLID)",
+    "TransformedData": "BODY"
+  },
+  {
+    "Id": 1,
+    "SubId": 2,
+    "Variation": 1,
+    "HeaderAttribute": "PalcementName",
+    "InitialData": "BULK - BODY, SLEEVES (SOLID)",
+    "TransformedData": "SLEEVES (SOLID)"
+  },
+  {
+    "Id": 2,
+    "SubId": 1,
+    "Variation": 1,
+    "HeaderAttribute": "PalcementName",
+    "InitialData": "BULK - BODY, SLEEVES (HEATHER)",
+    "TransformedData": "BODY"
+  },
+  {
+    "Id": 2,
+    "SubId": 1,
+    "Variation": 1,
+    "HeaderAttribute": "PalcementName",
+    "InitialData": "BULK - BODY, SLEEVES (HEATHER)",
+    "TransformedData": "SLEEVES (HEATHER)"
+  }
+]

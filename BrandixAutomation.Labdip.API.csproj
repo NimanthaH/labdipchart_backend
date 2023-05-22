@@ -17,5 +17,7 @@
     <Folder Include="LabdipChartLogs\" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties labdipchartconfigjsons_4headermaster_1json__JsonSchema="https://beaujs.com/schema.json" /></VisualStudio></ProjectExtensions>
+
 
 </Project>

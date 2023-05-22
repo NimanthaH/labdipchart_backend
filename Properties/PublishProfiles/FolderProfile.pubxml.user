@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Projects\Dev App Tools\Lab Dip - BFF\app\backend\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-05-18T10:18:22.7427224Z;True|2023-05-18T15:47:34.1498723+05:30;True|2023-05-18T10:48:34.5331434+05:30;True|2023-05-15T19:47:18.0825469+05:30;True|2023-04-25T17:01:46.2426291+05:30;True|2023-04-20T20:30:09.2447614+05:30;True|2023-04-20T18:48:50.8222822+05:30;True|2023-04-20T18:46:07.4444304+05:30;True|2023-04-20T18:39:00.8073427+05:30;True|2023-04-20T14:03:39.5338422+05:30;True|2023-04-20T12:52:18.0407273+05:30;True|2023-04-20T09:39:57.9939227+05:30;True|2023-04-13T21:10:55.6291839+05:30;True|2023-04-12T09:49:37.0279355+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

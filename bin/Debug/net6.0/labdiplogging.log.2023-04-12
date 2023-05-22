@@ -1,0 +1,180 @@
+2023-04-12 00:14:50,114 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 09:44:19,948 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 09:44:33,377 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 10:06:01,940 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40QM230 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:01:32,201 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:01:43,057 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 11:03:52,384 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM830 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:03:55,245 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 11:04:15,636 [18] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM230 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:04:19,219 [18] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 11:05:34,208 [15] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:05:37,300 [15] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 11:06:49,768 [28] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM830 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:06:53,477 [28] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 11:07:08,429 [27] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM230 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:07:15,845 [27] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 11:12:14,452 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:12:19,185 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 11:12:43,608 [11] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:12:48,840 [11] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 11:13:36,875 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 11:13:41,258 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 12:05:57,817 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM830 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 12:06:00,133 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 13:06:30,037 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:06:34,368 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 13:06:48,185 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:06:50,497 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 13:08:28,317 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:08:32,705 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 13:09:49,740 [21] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:09:51,616 [21] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 13:11:26,340 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:11:28,308 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called
+2023-04-12 13:25:02,324 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM230 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:25:06,589 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 13:25:57,538 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:25:59,586 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 13:31:54,508 [14] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM230 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:31:59,712 [14] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 13:32:36,829 [21] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:32:36,837 [21] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 13:34:31,773 [14] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:50:14,206 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:51:28,038 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:51:51,926 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 13:51:56,778 [19] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:53:03,750 [19] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 13:56:35,873 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:56:54,265 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 13:57:45,814 [14] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 13:58:32,578 [14] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:01:39,607 [22] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:02:42,915 [22] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 14:18:52,427 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM830 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:19:03,945 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:19:33,832 [19] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:20:00,324 [19] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:20:06,037 [23] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:20:42,017 [23] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:21:17,798 [16] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:21:49,668 [16] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:22:40,696 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:22:49,084 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:24:19,353 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:24:30,529 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:24:52,563 [17] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:25:09,124 [17] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:31:04,564 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:32:13,239 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 14:32:44,919 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:32:44,971 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 14:33:13,589 [13] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:33:13,641 [13] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 14:34:39,680 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:34:51,757 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 14:36:15,803 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:36:15,849 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 14:37:05,017 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:37:05,070 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 14:37:36,779 [13] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM830 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:37:36,791 [13] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 14:39:07,614 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:39:07,663 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 14:41:30,666 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QC812 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 14:41:36,081 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=
+2023-04-12 15:09:24,618 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QC812 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 15:09:24,663 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:30:32,260 [53] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:30:32,267 [53] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:30:37,345 [53] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:30:37,368 [53] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:30:46,229 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:30:46,234 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:30:51,959 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:30:51,963 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:31:03,225 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:31:03,236 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:31:03,247 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:31:03,250 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:31:03,258 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:31:03,261 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:31:03,269 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:31:03,272 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 16:31:03,280 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 16:31:03,283 [52] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 17:42:15,382 [68] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 17:42:15,385 [68] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:11:06,093 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:11:06,133 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:11:30,526 [20] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM230 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:11:30,529 [20] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:12:08,550 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40QM230 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:12:08,589 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:13:41,824 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:13:41,864 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:14:08,528 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:14:08,579 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:14:29,387 [20] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:14:29,390 [20] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:19:13,671 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:19:13,720 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:19:23,093 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:19:23,097 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:37:16,220 [9] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:37:16,263 [9] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:37:23,653 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:37:23,657 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:37:55,039 [9] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:37:55,078 [9] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:38:10,864 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:38:10,868 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:38:32,720 [16] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:38:32,731 [16] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:39:32,481 [25] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:39:35,607 [25] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 18:46:42,643 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-12 18:46:47,900 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:03:28,054 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 19:03:33,404 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:03:40,931 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 19:03:56,852 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 19:03:56,856 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:03:58,977 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 19:04:05,570 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 19:04:05,583 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:04:15,252 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 19:07:39,925 [16] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 19:08:00,879 [16] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:08:04,649 [16] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 19:13:02,954 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 19:13:10,245 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:13:14,528 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 19:31:48,697 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 19:31:48,713 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:31:51,483 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 19:31:53,052 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 19:31:53,056 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:32:01,857 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 19:32:01,974 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 19:32:01,977 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 19:32:01,977 [32] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 20:17:54,014 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 20:17:54,071 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 20:17:54,076 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 20:18:00,769 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=bom, file_variation=1
+2023-04-12 20:18:00,773 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 20:18:00,774 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=Copy of FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX - 40HM265.xlsx, type=line_matrix, file_variation=1
+2023-04-12 20:33:34,865 [35] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX.xlsx, type=bom, file_variation=1
+2023-04-12 20:33:34,868 [35] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 20:33:34,868 [35] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX.xlsx, type=line_matrix, file_variation=1
+2023-04-12 21:03:29,864 [19] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX.xlsx, type=bom, file_variation=1
+2023-04-12 21:03:29,908 [19] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 21:03:29,910 [19] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX.xlsx, type=line_matrix, file_variation=1
+2023-04-12 21:04:38,834 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX.xlsx, type=bom, file_variation=1
+2023-04-12 21:04:38,881 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 21:04:38,887 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX.xlsx, type=line_matrix, file_variation=1
+2023-04-12 21:09:28,127 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX.xlsx, type=bom, file_variation=1
+2023-04-12 21:09:28,166 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - arrangeSubColumns function called with labdipChartModelList=System.Collections.Generic.List`1[BrandixAutomation.Labdip.API.Models.LabdipChartModel]
+2023-04-12 21:09:28,168 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function called with filename=FAHO 23 MAINLINE LINE MATRIX 1.13.23 - BDX.xlsx, type=line_matrix, file_variation=1

@@ -1,0 +1,13 @@
+2023-04-10 14:50:17,559 [23] (null) INFO  - BrandixAutomation.Labdip.API.ProcessFiles.LabdipChartDataService - processFileData function scalled with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 15:30:17,516 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40WI403 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 19:46:19,532 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 19:46:39,085 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 19:49:13,164 [13] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 19:50:56,131 [9] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 20:01:43,222 [8] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 20:54:14,978 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 20:59:42,276 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 21:01:28,055 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 21:02:34,570 [5] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 21:05:43,509 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1
+2023-04-10 22:33:42,218 [3] (null) INFO  - BrandixAutomation.Labdip.API.Program - processFileData function scalled with filename=40HM265 - CKNA.xlsx, type=bom, file_variation=1

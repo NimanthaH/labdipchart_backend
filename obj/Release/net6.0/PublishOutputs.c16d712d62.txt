@@ -1,0 +1,12 @@
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\BrandixAutomation.Labdip.API.exe
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\appsettings.json
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\HeaderMaster.json
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\OptionsList.json
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\PlacementNamesList.json
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\ThreadTypesList.json
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\BrandixAutomation.Labdip.API.dll
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\BrandixAutomation.Labdip.API.deps.json
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\BrandixAutomation.Labdip.API.runtimeconfig.json
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\BrandixAutomation.Labdip.API.pdb
+C:\Projects\Dev App Tools\Lab Dip - BFF\api\bin\Release\net6.0\publish\ExcelDataReader.dll

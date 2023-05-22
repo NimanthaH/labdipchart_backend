@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "InitialPlacementName": "BULK - BODY, SLEEVES (HEATHER)",
+    "SubId": 1,
+    "PlacementName": "BODY"
+  },
+  {
+    "Id": 1,
+    "InitialPlacementName": "BULK - BODY, SLEEVES (HEATHER)",
+    "SubId": 2,
+    "PlacementName": "SLEEVES (HEATHER)"
+  }
+]
